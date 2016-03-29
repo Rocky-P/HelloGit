@@ -14,5 +14,9 @@ namespace HelloGit.Controllers
             Console.Write("<h1> Hellow from Index </h1>");
         }
 
+        public void Bar()
+        {
+            Console.Write("<h1> Bar </h1>");
+        }
     }
 }
