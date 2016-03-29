@@ -18,5 +18,10 @@ namespace HelloGit.Controllers
         {
             Console.Write("<h1> Bar </h1>");
         }
+        public void Foo()
+        {
+            Console.Write("<h1> Foo </h1>");
+        }
+
     }
 }
